@@ -15,5 +15,9 @@
     "url": "https://github.com/jamesreantillo/responsive_layout/issues"
   },
   "homepage": "https://github.com/jamesreantillo/responsive_layout#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "gulp": "^4.0.2"
+  }
 }
